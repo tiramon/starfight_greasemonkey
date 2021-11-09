@@ -2,7 +2,7 @@
 // @name         RessOverview
 // @namespace    Starfights
 // @version      0.2
-// @description  try to take over the world!
+// @description  Sum up resources in storage and produced over all planets after each planet was atleast visited once
 // @author       Lieberwolf
 // @match        *.starfights.de/*
 // @icon         https://www.google.com/s2/favicons?domain=starfights.de
