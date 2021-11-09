@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MainScroll
 // @namespace    http://starfights.de/
-// @version      0.1
+// @version      0.2
 // @description  Scroll the main area and pin the resources
 // @author       Tiramon
 // @match        *.starfights.de/*

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MainScroll
 // @namespace    http://starfights.de/
-// @version      0.1
+// @version      0.2
 // @description  Scroll the main area and pin the resources
 // @author       Tiramon
 // @match        *.starfights.de/*
@@ -19,7 +19,7 @@
     console.log('scroll offset', res.offsetHeight);
     let index = 1;
     console.log(window.location.pathname);
-    const pattern  = /\/mission\/\d+/
+    const pattern  = /\/(mission|alliance|settings)\/\d+/
     if (window.location.pathname.match(pattern)) {
         index = 2;
      }
