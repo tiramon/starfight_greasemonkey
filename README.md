@@ -17,3 +17,16 @@ This is a repository for some usefull greasmonkey/tampermokey script for https:/
     https://raw.githubusercontent.com/tiramon/starfight_greasemonkey/master/ShowFillLevel.user.js
     
     Shows the current resources storage fill level of the seletect planet
+
+* RelativeProduction
+
+    https://raw.githubusercontent.com/tiramon/starfight_greasemonkey/master/RelativeProduction.user.js
+
+    Shows the relative production to iron production (percent as decimal)
+
+* StorageTime
+
+    https://raw.githubusercontent.com/tiramon/starfight_greasemonkey/master/StorageTime.user.js
+
+    Shows how many hours of production your current storage can hold based on production of the current planet
+    
